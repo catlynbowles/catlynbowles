@@ -1,10 +1,14 @@
 <h1 align="center"> Catlyn Bowles </h1> 
 <h3 align="center">Front-End Software Engineer</h3>
+<div align="center">
+ 
+  ![plant](https://user-images.githubusercontent.com/98493391/203644519-39cd011a-f799-4c68-bf8c-a761b562ebe3.gif)
+  
+   📫 [Connect With Me](https://www.linkedin.com/in/catlyn-bowles/)
+ </div>
 
-- :hibiscus: Interests Include: :wolf:Animals, :snowboarder:Snowboarding, :books:Reading, :notes:Music, :mushroom:Nature, :ice_cream: Ice Cream <br><br>
-- :fire: Fun fact: I've been riding horses since I was two <br><br>
-- 📫 [Connect With Me](https://www.linkedin.com/in/catlyn-bowles/)
-
+<div align="center">
+  
 ## Languages & Tools: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
@@ -27,3 +31,4 @@
 [![Catlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlynbowles&show_icons=true&theme=tokyonight)](https://github.com/catlynbowles/github-readme-stats)
 
 ![Cats Stats](https://github-readme-stats.vercel.app/api/top-langs?username=catlynbowles&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+ </div>
