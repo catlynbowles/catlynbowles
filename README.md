@@ -1,9 +1,6 @@
 <h1 align="center"> Catlyn Bowles </h1> 
 <h3 align="center">Front-End Software Engineer</h3>
 
-<h2> ⚡ About Me ⚡ </h2>
-
-- Nice to meet you ! I'm Catlyn, a massage therapist turned software engineer. Becoming a developer has made me a more creative, dynamic and adaptable problem solver and person. Something that excites me about this field is the influence and power web applications have on daily life, and in my dream career I'd be developing tools that positively impact populations affected by inequality. As a massage therapist, I worked primarily with cancer patients who inspired me to live life to the fullest, and to embrace every new experience! I'm incredibly grateful to bring that energy to code, where I'm learning to whip up web apps with React, JavaScript, HTML, CSS, Cypress, Mocha, Chai and more (TBD). Let's connect! <br><br>
 - :hibiscus: Interests Include: :wolf:Animals, :snowboarder:Snowboarding, :books:Reading, :notes:Music, :mushroom:Nature, :ice_cream: Ice Cream <br><br>
 - :fire: Fun fact: I've been riding horses since I was two <br><br>
 - 📫 [Connect With Me](https://www.linkedin.com/in/catlyn-bowles/)
