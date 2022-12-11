@@ -25,8 +25,8 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 
-<!-- ## Stats 
+## Stats 
 [![Catlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlynbowles&show_icons=true&theme=tokyonight)](https://github.com/catlynbowles/github-readme-stats)
 
 ![Cats Stats](https://github-readme-stats.vercel.app/api/top-langs?username=catlynbowles&show_icons=true&locale=en&layout=compact&theme=tokyonight)
- </div> -->
+ </div>
