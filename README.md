@@ -1,8 +1,8 @@
 # ✨ Hello There ✨
 ### I'm Catlyn 👋🏼 
 
-- ### *Engineering Apprentice @ [Upstatement](https://upstatement.com/)*
-  - *collaborating in building web applications that make the world a better place*    
+- ### *Front-End Software Engineer*
+  - *collaborating in building beautiful web applications that make the world a better place*
 
 - ### *Career Changer ~ Former Massage Therapist* 
 
